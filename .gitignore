@@ -1,0 +1,8 @@
+bin/
+.vscode/
+obj/
+build/
+doc/
+documentation/
+
+src/__pycache__

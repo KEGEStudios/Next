@@ -75,6 +75,16 @@
         "sstream": "cpp",
         "thread": "cpp",
         "cfenv": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "compare": "cpp",
+        "xhash": "cpp",
+        "hash_map": "cpp",
+        "condition_variable": "cpp",
+        "unordered_set": "cpp",
+        "mutex": "cpp",
+        "ranges": "cpp",
+        "stop_token": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp"
     }
 }
